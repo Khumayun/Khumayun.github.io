@@ -1,0 +1,32 @@
+body {
+	background-image: url("bg.jpg");
+	font-family: Calibri;
+	color: #fff;
+	font-size: 14pt;
+	text-align: left;
+}
+
+a {
+	color: #fff;
+}
+
+#title {
+	background: #669a87;
+	color: black;
+	opacity: .7;
+	font-size: 16pt;
+	font-family: cursive;
+}
+
+.sub {
+	background: #68ce7a;
+	color: white;
+	opacity: .8;
+	font-size: 14pt;
+	font-family: cursive;
+}
+
+.sub:hover {
+	transition: .6s;
+	background: red;
+}
